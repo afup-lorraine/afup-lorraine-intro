@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="" />
+    <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/css/highlight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/css/reveal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/Belgrano-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/RobotoCondensed-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/RobotoCondensed-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/RobotoCondensed-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/RobotoCondensed-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/RobotoCondensed-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/fonts/RobotoCondensed-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/images/PHP_supported_versions.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/images/afup-day-2025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/images/foundation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/images/versions-php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/js/head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/js/reveal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/js/highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SIL Open Font License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-BlackIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-BoldIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-ExtraLight.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-ExtraLightIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-It.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-LightIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-Semibold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/SourceSansPro-SemiboldIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/lib/font/source-sans-pro/source-sans-pro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sponsors/logo-mns-01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,20 +60,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Sakulan/dev/afup-lorraine-intro/images",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sakulan/dev/afup-lorraine-intro&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\images" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro" />
+      <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\images" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-01-opening" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\images\sponsors" />
+      <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-10-opening\assets\images" />
+      <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-10-opening\assets\images\sponsors" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,7 +89,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707324628777</updated>
-      <workItem from="1707324630016" duration="2503000" />
+      <workItem from="1707324630016" duration="2926000" />
+      <workItem from="1728930775231" duration="1418000" />
+      <workItem from="1728932529376" duration="2406000" />
     </task>
     <servers />
   </component>
