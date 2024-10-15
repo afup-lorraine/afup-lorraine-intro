@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="add October 2024">
-      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/images/conference_hall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2024-10-opening/assets/images/php_versions.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024-10-opening/assets/images/versions-php.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/2024-10-opening/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2024-10-opening/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +59,7 @@
       <workItem from="1728930775231" duration="1418000" />
       <workItem from="1728932529376" duration="2535000" />
       <workItem from="1728935113290" duration="497000" />
-      <workItem from="1728991195849" duration="319000" />
+      <workItem from="1728991195849" duration="562000" />
     </task>
     <task id="LOCAL-00001" summary="add october 2024">
       <created>1728935019844</created>
