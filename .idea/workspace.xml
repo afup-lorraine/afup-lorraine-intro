@@ -2,45 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="add October 2024">
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/css/highlight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/css/reveal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/Belgrano-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/RobotoCondensed-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/RobotoCondensed-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/RobotoCondensed-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/RobotoCondensed-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/RobotoCondensed-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/fonts/RobotoCondensed-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/images/PHP_supported_versions.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/images/afup-day-2025.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/images/conference_hall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/images/foundation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/images/php_versions.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/images/tiobe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/js/head.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/assets/js/reveal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/js/highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SIL Open Font License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-Black.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-BlackIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-BoldIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-ExtraLight.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-ExtraLightIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-It.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-LightIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-Semibold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/SourceSansPro-SemiboldIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2025-01-opening/lib/font/source-sans-pro/source-sans-pro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sponsors/logo_icn_business_school.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2025-01-opening/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2025-01-opening/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,9 +42,9 @@
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-01-opening" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\images\sponsors" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2025-01-opening\assets\images" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-10-opening\assets\images" />
-      <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\images\sponsors" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-10-opening\assets\images\sponsors" />
     </key>
   </component>
