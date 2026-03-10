@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="add October 2024">
-      <change afterPath="$PROJECT_DIR$/images/sponsors/logo_icn_business_school.png" afterDir="false" />
+    <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="Préparation Slides pour le 02/10">
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/css/highlight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/css/reveal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/Belgrano-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/RobotoCondensed-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/RobotoCondensed-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/RobotoCondensed-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/RobotoCondensed-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/RobotoCondensed-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/fonts/RobotoCondensed-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/Meetup_fevrier_2026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/afup-day-2026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/afup-day-QR-code-2026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/afup-day-bordeaux.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/afup-day-lille.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/afup-day-lyon.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/afup-day-paris.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/breaking-news.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/conf_du_jour.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/conference_hall.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/elephant_cover.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/images/foundation.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/js/head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/assets/js/reveal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/js/highlight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SIL Open Font License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-Black.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-BlackIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-BoldIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-ExtraLight.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-ExtraLightIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-It.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-LightIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-Semibold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/SourceSansPro-SemiboldIt.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2026-03-opening/lib/font/source-sans-pro/source-sans-pro.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2025-01-opening/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2025-01-opening/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,33 +65,56 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:/wamp64/bin/php/php8.3.6/php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2c2znWHzkqe1gtAMFK7NEP4N4dg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Sakulan/dev/afup-lorraine-intro/2025-01-opening/assets/images",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/william/app/afup-lorraine-intro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\william\app\afup-lorraine-intro" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2025-01-opening\assets\images" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\images" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-01-opening" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\william\app\afup-lorraine-intro\images" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\images\sponsors" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2025-01-opening\assets\images" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-10-opening\assets\images" />
       <recent name="C:\Users\Sakulan\dev\afup-lorraine-intro\2024-10-opening\assets\images\sponsors" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PS-251.26094.133" />
+        <option value="bundled-php-predefined-a98d8de5180a-c5828cf854d9-com.jetbrains.php.sharedIndexes-PS-251.26094.133" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -61,6 +129,11 @@
       <workItem from="1728932529376" duration="2535000" />
       <workItem from="1728935113290" duration="497000" />
       <workItem from="1728991195849" duration="562000" />
+      <workItem from="1759260860864" duration="3760000" />
+      <workItem from="1764703995798" duration="139000" />
+      <workItem from="1769458752200" duration="1842000" />
+      <workItem from="1769633821486" duration="2364000" />
+      <workItem from="1773178621008" duration="644000" />
     </task>
     <task id="LOCAL-00001" summary="add october 2024">
       <created>1728935019844</created>
@@ -76,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728935061852</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Init 2025/10">
+      <option name="closed" value="true" />
+      <created>1759260983083</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759260983083</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Préparation Slides pour le 02/10">
+      <option name="closed" value="true" />
+      <created>1759267058879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759267058879</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +185,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add october 2024" />
     <MESSAGE value="add October 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="add October 2024" />
+    <MESSAGE value="Init 2025/10" />
+    <MESSAGE value="Préparation Slides pour le 02/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Préparation Slides pour le 02/10" />
   </component>
 </project>
