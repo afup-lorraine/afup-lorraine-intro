@@ -5,61 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="Publication slides septembre 2026">
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/css/highlight.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/css/reveal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/Belgrano-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/RobotoCondensed-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/RobotoCondensed-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/RobotoCondensed-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/RobotoCondensed-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/RobotoCondensed-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/fonts/RobotoCondensed-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/Meetup_fevrier_2026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/afup-day-2026.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/afup-day-QR-code-2026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/afup-day-bordeaux.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/afup-day-lille.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/afup-day-lyon.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/afup-day-paris.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/breaking-news.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/conference_hall.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/dance_phpverse.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/election.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/elephant_cover.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/fatigue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/forum_php_2026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/foundation.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/highres_534206830.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/lettre-ouverte.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/meetup_mars_2026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/php-versions.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/php.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/images/php_supported_version.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/js/head.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/assets/js/reveal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/js/highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SIL Open Font License.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-Black.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-BlackIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-Bold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-BoldIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-ExtraLight.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-ExtraLightIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-It.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-Light.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-LightIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-Semibold.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/SourceSansPro-SemiboldIt.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2026-09-opening/lib/font/source-sans-pro/source-sans-pro.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/forum-php-2026.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mercure.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2025-10-opening/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2025-10-opening/index.html" afterDir="false" />
     </list>
