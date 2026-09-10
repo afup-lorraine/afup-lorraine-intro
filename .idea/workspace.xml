@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="Publication slides septembre 2026">
+    <list default="true" id="546e667d-0bf1-4ed7-b6b0-d868be7c6380" name="Changes" comment="09/2026 - Ajout info Php Foundation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2025-10-opening/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2025-10-opening/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2026-09-opening/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2026-09-opening/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,6 +192,7 @@
     <MESSAGE value="Préparation Slides pour le 28/05/2026" />
     <MESSAGE value="28/05/2026 - Correctif nom Darkmira" />
     <MESSAGE value="Publication slides septembre 2026" />
-    <option name="LAST_COMMIT_MESSAGE" value="Publication slides septembre 2026" />
+    <MESSAGE value="09/2026 - Ajout info Php Foundation" />
+    <option name="LAST_COMMIT_MESSAGE" value="09/2026 - Ajout info Php Foundation" />
   </component>
 </project>
