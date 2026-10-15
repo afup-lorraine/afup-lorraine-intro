@@ -1,0 +1,119 @@
+/* Thème AFUP Lorraine pour reveal.js 6 — s'utilise après shared/reveal/reveal.css */
+
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url("fonts/RobotoCondensed-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Roboto Condensed";
+    src: url("fonts/RobotoCondensed-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Belgrano";
+    src: url("fonts/Belgrano-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-display: swap;
+}
+
+:root {
+    --afup-main-font: "Roboto Condensed", Helvetica, sans-serif;
+    --afup-heading-font: "Belgrano", Georgia, serif;
+    --afup-text-color: #222;
+    --afup-link-color: #2a76dd;
+    --afup-link-color-hover: #6ca0e8;
+    --afup-block-margin: 20px;
+}
+
+.reveal-viewport {
+    background: #fff url("../../images/logo.png") no-repeat bottom 3% left 3% / 10em;
+}
+
+.reveal {
+    font-family: var(--afup-main-font);
+    font-size: 42px;
+    color: var(--afup-text-color);
+}
+
+.reveal ::selection {
+    color: #fff;
+    background: #98bdef;
+}
+
+.reveal .slides section {
+    line-height: 1.3;
+}
+
+/* Titres */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+    margin: 0 0 var(--afup-block-margin);
+    color: var(--afup-text-color);
+    font-family: var(--afup-heading-font);
+    font-weight: 600;
+    line-height: 1.2;
+    overflow-wrap: break-word;
+}
+
+.reveal h1 { font-size: 2.5em; }
+.reveal h2 { font-size: 1.6em; }
+.reveal h3 { font-size: 1.3em; }
+.reveal h4 { font-size: 1em; }
+
+/* Texte */
+.reveal p {
+    margin: var(--afup-block-margin) 0;
+}
+
+.reveal strong { font-weight: 700; }
+.reveal em,
+.reveal i { font-style: italic; }
+
+/* Listes */
+.reveal ul,
+.reveal ol {
+    display: inline-block;
+    margin: 0 0 0 1em;
+    text-align: left;
+}
+
+.reveal ul { list-style-type: disc; }
+.reveal ul ul { list-style-type: square; }
+
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ul,
+.reveal ol ol {
+    display: block;
+    margin-left: 40px;
+}
+
+/* Images */
+.reveal img {
+    max-width: 95%;
+    max-height: 95%;
+    margin: 15px 0;
+}
+
+/* Liens et navigation */
+.reveal a {
+    color: var(--afup-link-color);
+    text-decoration: none;
+    transition: color 0.15s ease;
+}
+
+.reveal a:hover {
+    color: var(--afup-link-color-hover);
+}
+
+.reveal .controls,
+.reveal .progress {
+    color: var(--afup-link-color);
+}
