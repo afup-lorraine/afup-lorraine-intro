@@ -102,6 +102,21 @@
     margin: 15px 0;
 }
 
+/* Classes utilitaires des slides */
+.reveal .title-slide {
+    margin-top: 2em;
+}
+
+.reveal .slide-small {
+    font-size: 0.8em;
+}
+
+.reveal .centered-logo {
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+
 /* Liens et navigation */
 .reveal a {
     color: var(--afup-link-color);
