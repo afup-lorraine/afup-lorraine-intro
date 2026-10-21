@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>AFUP Octobre 2026</title>
+
+    <link rel="stylesheet" href="assets/css/reveal.css">
+    <link rel="stylesheet" href="assets/css/theme.css">
+    <link rel="stylesheet" href="assets/css/highlight.css">
+    <link rel="stylesheet" href="assets/css/all.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section>
+            <img src="../images/logo.png">
+            <h2 style="margin-top: 2em">Meetup AFUP<br>Octobre 2026</h2>
+        </section>
+        <section>
+            <img src="../images/afup-logo-full-color.png">
+            <ul>
+                <li>Association créée en 2001 pour promouvoir PHP et son écosystème</li>
+                <li>Organise des conférences (Forum PHP, AFUP Day)</li>
+                <li>environ 15 antennes dans toute la France</li>
+                <li>afup.org/association/antennes</li>
+            </ul>
+        </section>
+        <section>
+            <img src="../images/logo.png">
+            <ul>
+                <li>Meetup tous les mois ⏰</li>
+                <li>Du PHP et son environnement</li>
+                <li>Et avec des apéros ! 🍻</li>
+                <li>https://linktr.ee/afup_lorraine</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Nous aider ?</h2>
+            <br/>
+            <img src="./assets/images/conference_hall.jpg" width="190px">
+            <br/>
+            <ul>
+                <li> ⚠️ Speakers ! ⚠️ </li>
+                <li>https://conference-hall.io/meetup-afup-lorraine</li>
+                <li>Locaux</li>
+                <li>Sponsoring (manger && boire)</li>
+            </ul>
+            <br/>
+        </section>
+        <section id="lorraine-tech-hub">
+            <img src="../images/lorraine_tech_hub.png" width="90px">
+            <h1  style="font-size: 0.8em;">Lorraine Tech Hub</h1>
+            <img src="../images/discord_logo.svg" width="175px" style="padding: 20px; display: block; margin: auto">
+            <ul>
+                <li>Acteurs de la tech en Lorraine</li>
+                <li>Discussion, veille, entraide, recrutement</li>
+                <li>Associations
+                    <ul>
+                        <li>Apéros Web Nancy</li>
+                        <li>AFUP Lorraine</li>
+                        <li>Apéro agiles</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h1>Actu locale</h1>
+            <ul>
+                <li>Apéro Web le mercredi 28 octobre : ce mois-ci pas de speaker, mais on se retrouve quand même pour parler tech !</li>
+                <li>Les Apéros Design continuent tous les 2ème jeudi du mois, prochain le 12 novembre à La Plantation</li>
+            </ul>
+        </section>
+        <section>
+            <h1>Actu Antenne</h1>
+            <p>Meetup du mois de novembre chez EPITECH</p>
+            <p>
+                <i>Embeddings : Symfony AI en pratique</i> par <br><strong>Grégoire Pineau</strong> de Jolicode
+            </p>
+        </section>
+        <section>
+            <h1>Tech F'Est 2026</h1>
+            <img src="../images/tech-fest.svg" height="250" width="250">
+            <br/>
+            <ul>
+                <li>Merci aux participants</li>
+                <li>Vidéos disponibles sur YouTube</li>
+                <li>On prépare déjà la suite</li>
+            </ul>
+        </section>
+        <!--                <section>-->
+        <!--                    <h2>Actu Antenne</h2>-->
+        <!--                    <br/>-->
+        <!--                    <p>-->
+        <!--                        <i>Prochaine conférence…</i>-->
+        <!--                        <br>-->
+        <!--                        - -->
+        <!--                        <br>-->
+        <!--                        AFUP Lorraine, 13 novembre 2025 - à Nancy-->
+        <!--                    </p>-->
+        <!--                </section>-->
+        <section>
+            <h1>Actu AFUP</h1>
+            <br/>
+            <img src="../images/breaking-news.gif">
+        </section>
+        <section>
+            <h2>Lettre ouverte </h2>
+            <br/>
+            <img src="../2026-10-opening/assets/images/lettre-ouverte.png" style="width: 680px;">
+            <p>https://lettreouverte.afup.org/</p>
+            <br/>
+        </section>
+        <section>
+            <h1>Actu PHP</h1>
+            <br/>
+            <img src="../images/php.png">
+        </section>
+        <section>
+            <h2>⚠️ Failles critiques (21 oct. 2026)</h2>
+            <ul>
+                <li>Deux RCE critiques : <strong>CVE-2026-109618</strong> & <strong>CVE-2026-109619</strong></li>
+                <li>CVSS 9.2 — exécution de code à distance, non authentifiée</li>
+                <li>Au cœur du moteur : mémoire (OOM) et état global résiduel</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Qui est concerné ?</h2>
+            <ul>
+                <li>Toutes les installations servant du web</li>
+                <li>PHP-FPM, Apache mod_php, php-cgi, FrankenPHP, LiteSpeed</li>
+                <li>Risque maximal sur <strong>mod_php</strong></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Que faire ?</h2>
+            <ul>
+                <li><strong>La mise à jour est la seule solution sûre</strong></li>
+                <li>Correctifs : PHP <strong>8.5.12 / 8.4.27 / 8.3.36 / 8.2.35</strong></li>
+                <li>PHP 8.1 et antérieurs : backports source (7.4 / 8.0 / 8.1) ou vendor LTS</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Versions actuellement prises en charge</h2>
+            <p>Au 31 décembre 2026 :</p>
+            <ul>
+                <li><strong>PHP 8.2</strong> : Fin de vie</li>
+                <li><strong>PHP 8.3</strong> : Fin du support actif</li>
+                <li>Sortie de <strong>PHP 8.6</strong> en alpha</li>
+            </ul>
+            <img src="./assets/images/php_supported_version.png" style="width: 680px;">
+        </section>
+        <section>
+            <h2>PHP 8.6 : où en est-on ?</h2>
+            <ul>
+                <li>22 septembre : 8.6.0 RC1</li>
+                <li>24 septembre : 8.6.0 RC2</li>
+                <li>8 octobre : 8.6.0 RC3</li>
+                <li>19 novembre : sortie prévue de PHP 8.6</li>
+            </ul>
+        </section>
+        <section>
+            <h2>PHP Foundation</h2>
+            <ul>
+                <li>PHP Ambassador Program
+                </li>
+                <img src="./assets/images/foundation.jpg" style="width: 450px;">
+            </ul>
+        </section>
+        <section>
+            <h2>Partenaire : Jetbrains</h2>
+            <ul>
+                <li>Licence IDE 1 an</li>
+            </ul>
+        </section>
+        <section style="font-size: 0.8em !important">
+            <h2>Aujourd'hui !</h2>
+            <br>
+            <p>
+                <i>Au-delà d'AbstractVoter : Domptez vos permissions et stratégies d'accès Symfony !</i> par  <br><strong>Marilena RUFFELAERE</strong>
+            </p>
+        </section>
+        <section style="font-size: 0.8em !important">
+            <h2>Et pour finir</h2>
+            <p>Merci à EPITECH, notre hébergeur, et à SensioLabs, notre sponsor !</p>
+            <div style="display: flex; align-items: center; justify-content: center; gap: 32px">
+                <img src="../images/sponsors/logo-epitech.png" width="300">
+                <img src="../images/sponsors/logo-sensiolabs.png" width="300">
+            </div>
+        </section>
+        <section>
+            <h2 style="margin-top: 4em">Bon meetup !</h2>
+            <img src="https://media.giphy.com/media/3oKIPnbKgN3bXeVpvy/giphy.gif" />
+        </section>
+    </div>
+</div>
+<script src="assets/js/head.js"></script>
+<script src="assets/js/reveal.js"></script>
+<script>
+    Reveal.initialize({
+        dependencies: [
+            // Syntax highlight for <code> elements
+            { src: 'js/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+        ]
+    });
+    Reveal.configure({ slideNumber: 'c/t' });
+</script>
+</body>
+</html>
