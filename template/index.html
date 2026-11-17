@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AFUP Lorraine — Meetup {{MONTH_LABEL}}</title>
+
+    <link rel="stylesheet" href="../shared/reveal/reset.css">
+    <link rel="stylesheet" href="../shared/reveal/reveal.css">
+    <link rel="stylesheet" href="../shared/theme/afup.css">
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section>
+            <img src="../images/logo.png" alt="AFUP Lorraine">
+            <h2 class="title-slide">Meetup AFUP<br>{{MONTH_LABEL}}</h2>
+            <p>{{DATE_LABEL}}</p>
+        </section>
+        <section>
+            <img src="../images/afup-logo-full-color.png" alt="AFUP">
+            <ul>
+                <li>Association créée en 2001 pour promouvoir PHP et son écosystème</li>
+                <li>Organise des conférences (Forum PHP, AFUP Day)</li>
+                <li>Environ 15 antennes dans toute la France</li>
+                <li><a href="https://afup.org/association/antennes">afup.org/association/antennes</a></li>
+            </ul>
+        </section>
+        <section>
+            <img src="../images/logo.png" alt="AFUP Lorraine">
+            <ul>
+                <li>Meetup tous les mois ⏰</li>
+                <li>Du PHP et son environnement</li>
+                <li>Et avec des apéros ! 🍻</li>
+                <li><a href="https://linktr.ee/afup_lorraine">linktr.ee/afup_lorraine</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Nous aider ?</h2>
+            <img src="../images/conference-hall.jpg" alt="Conference Hall" width="190">
+            <ul>
+                <li>⚠️ Speakers ! ⚠️</li>
+                <li><a href="https://conference-hall.io/meetup-afup-lorraine">conference-hall.io/meetup-afup-lorraine</a></li>
+                <li>Locaux</li>
+                <li>Sponsoring (manger &amp;&amp; boire)</li>
+            </ul>
+        </section>
+        <section>
+            <img src="../images/lorraine_tech_hub.png" alt="" width="90">
+            <h2>Lorraine Tech Hub</h2>
+            <img class="centered-logo" src="../images/discord_logo.svg" alt="Discord" width="175">
+            <ul>
+                <li>Acteurs de la tech en Lorraine</li>
+                <li>Discussion, veille, entraide, recrutement</li>
+                <li>Associations
+                    <ul>
+                        <li>Apéros Web Nancy</li>
+                        <li>AFUP Lorraine</li>
+                        <li>Apéro agiles</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <!-- actu:start -->
+        <section>
+            <h1>Actu AFUP</h1>
+            <img src="../images/breaking-news.gif" alt="Breaking news">
+        </section>
+        <section>
+            <h1>Actu PHP</h1>
+            <img src="../images/php.png" alt="PHP">
+        </section>
+        <!-- actu:end -->
+        <section class="slide-small">
+            <h2>Aujourd'hui !</h2>
+            <p><em>À compléter</em></p>
+            <p>par <strong>{{SPEAKER}}</strong></p>
+        </section>
+        <section class="slide-small">
+            <h2>Et pour finir</h2>
+            <p>Merci à {{HOST_NAME}} pour l'hébergement et l'apéro !</p>
+            <img src="../images/sponsors/{{HOST_LOGO}}" alt="{{HOST_NAME}}" width="400">
+        </section>
+        <section>
+            <h2>Bon meetup !</h2>
+            <img src="../images/bon-meetup.gif" alt="Bon meetup">
+            <p><a href="{{MEETUP_URL}}">{{MEETUP_URL}}</a></p>
+        </section>
+    </div>
+</div>
+<script src="../shared/reveal/reveal.js"></script>
+<script>
+    Reveal.initialize({ slideNumber: 'c/t', hash: true });
+</script>
+</body>
+</html>
