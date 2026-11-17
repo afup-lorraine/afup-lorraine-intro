@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AFUP Lorraine — Meetup Novembre 2026</title>
+
+    <link rel="stylesheet" href="../shared/reveal/reset.css">
+    <link rel="stylesheet" href="../shared/reveal/reveal.css">
+    <link rel="stylesheet" href="../shared/theme/afup.css">
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section>
+            <img src="../images/logo.png" alt="AFUP Lorraine">
+            <h2 class="title-slide">Meetup AFUP<br>Novembre 2026</h2>
+            <p>Jeudi 19 novembre 2026</p>
+        </section>
+        <section>
+            <img src="../images/afup-logo-full-color.png" alt="AFUP">
+            <ul>
+                <li>Association créée en 2001 pour promouvoir PHP et son écosystème</li>
+                <li>Organise des conférences (Forum PHP, AFUP Day)</li>
+                <li>Environ 15 antennes dans toute la France</li>
+                <li><a href="https://afup.org/association/antennes">afup.org/association/antennes</a></li>
+            </ul>
+        </section>
+        <section>
+            <img src="../images/logo.png" alt="AFUP Lorraine">
+            <ul>
+                <li>Meetup tous les mois ⏰</li>
+                <li>Du PHP et son environnement</li>
+                <li>Et avec des apéros ! 🍻</li>
+                <li><a href="https://linktr.ee/afup_lorraine">linktr.ee/afup_lorraine</a></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Nous aider ?</h2>
+            <img src="../images/conference-hall.jpg" alt="Conference Hall" width="190">
+            <ul>
+                <li>⚠️ Speakers ! ⚠️</li>
+                <li><a href="https://conference-hall.io/meetup-afup-lorraine">conference-hall.io/meetup-afup-lorraine</a></li>
+                <li>Locaux</li>
+                <li>Sponsoring (manger &amp;&amp; boire)</li>
+            </ul>
+        </section>
+        <section>
+            <img src="../images/lorraine_tech_hub.png" alt="" width="90">
+            <h2>Lorraine Tech Hub</h2>
+            <img class="centered-logo" src="../images/discord_logo.svg" alt="Discord" width="175">
+            <ul>
+                <li>Acteurs de la tech en Lorraine</li>
+                <li>Discussion, veille, entraide, recrutement</li>
+                <li>Associations
+                    <ul>
+                        <li>Apéros Web Nancy</li>
+                        <li>AFUP Lorraine</li>
+                        <li>Apéro agiles</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+        <!-- actu:start -->
+        <section>
+            <h1>Actu locale</h1>
+            <ul>
+                <li>Apéro Web le mercredi 28 octobre : ce mois-ci pas de speaker, mais on se retrouve quand même pour parler tech !</li>
+                <li>Les Apéros Design continuent tous les 2ème jeudi du mois, prochain le 12 novembre à La Plantation</li>
+            </ul>
+        </section>
+        <section>
+            <h1>Actu Antenne</h1>
+            <p>Meetup du mois de novembre chez EPITECH</p>
+            <p><em>Embeddings : Symfony AI en pratique</em></p>
+            <p>par <strong>Grégoire Pineau</strong> de Jolicode</p>
+        </section>
+        <section>
+            <h1>Tech F'Est 2026</h1>
+            <img src="../images/tech-fest.svg" alt="Tech F'Est" width="250" height="250">
+            <ul>
+                <li>Merci aux participants</li>
+                <li>Vidéos disponibles sur YouTube</li>
+                <li>On prépare déjà la suite</li>
+            </ul>
+        </section>
+        <section>
+            <h1>Actu AFUP</h1>
+            <img src="../images/breaking-news.gif" alt="Breaking news">
+        </section>
+        <section>
+            <h2>Lettre ouverte</h2>
+            <img src="assets/images/lettre-ouverte.png" alt="Lettre ouverte de l'AFUP" width="680">
+            <p><a href="https://lettreouverte.afup.org/">lettreouverte.afup.org</a></p>
+        </section>
+        <section>
+            <h1>Actu PHP</h1>
+            <img src="../images/php.png" alt="PHP">
+        </section>
+        <section>
+            <h2>⚠️ Failles critiques (21 oct. 2026)</h2>
+            <ul>
+                <li>Deux RCE critiques : <strong>CVE-2026-109618</strong> &amp; <strong>CVE-2026-109619</strong></li>
+                <li>CVSS 9.2 — exécution de code à distance, non authentifiée</li>
+                <li>Au cœur du moteur : mémoire (OOM) et état global résiduel</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Qui est concerné ?</h2>
+            <ul>
+                <li>Toutes les installations servant du web</li>
+                <li>PHP-FPM, Apache mod_php, php-cgi, FrankenPHP, LiteSpeed</li>
+                <li>Risque maximal sur <strong>mod_php</strong></li>
+            </ul>
+        </section>
+        <section>
+            <h2>Que faire ?</h2>
+            <ul>
+                <li><strong>La mise à jour est la seule solution sûre</strong></li>
+                <li>Correctifs : PHP <strong>8.5.12 / 8.4.27 / 8.3.36 / 8.2.35</strong></li>
+                <li>PHP 8.1 et antérieurs : backports source (7.4 / 8.0 / 8.1) ou vendor LTS</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Versions actuellement prises en charge</h2>
+            <p>Au 31 décembre 2026 :</p>
+            <ul>
+                <li><strong>PHP 8.2</strong> : Fin de vie</li>
+                <li><strong>PHP 8.3</strong> : Fin du support actif</li>
+                <li>Sortie de <strong>PHP 8.6</strong> en alpha</li>
+            </ul>
+            <img src="assets/images/php_supported_version.png" alt="Calendrier des versions PHP prises en charge" width="680">
+        </section>
+        <section>
+            <h2>PHP 8.6 : où en est-on ?</h2>
+            <ul>
+                <li>22 septembre : 8.6.0 RC1</li>
+                <li>24 septembre : 8.6.0 RC2</li>
+                <li>8 octobre : 8.6.0 RC3</li>
+                <li>19 novembre : sortie prévue de PHP 8.6</li>
+            </ul>
+        </section>
+        <section>
+            <h2>PHP Foundation</h2>
+            <ul>
+                <li>PHP Ambassador Program</li>
+            </ul>
+            <img src="assets/images/foundation.jpg" alt="PHP Foundation" width="450">
+        </section>
+        <section>
+            <h2>Partenaire : JetBrains</h2>
+            <ul>
+                <li>Licence IDE 1 an</li>
+            </ul>
+        </section>
+        <!-- actu:end -->
+        <section class="slide-small">
+            <h2>Aujourd'hui !</h2>
+            <p><em>À compléter</em></p>
+            <p>par <strong>Grégoire PINEAU</strong></p>
+        </section>
+        <section class="slide-small">
+            <h2>Et pour finir</h2>
+            <p>Merci à EPITECH Nancy pour l'hébergement et l'apéro !</p>
+            <img src="../images/sponsors/logo-epitech.png" alt="EPITECH Nancy" width="400">
+        </section>
+        <section>
+            <h2>Bon meetup !</h2>
+            <img src="../images/bon-meetup.gif" alt="Bon meetup">
+<!--            <p><a href="https://www.meetup.com/afup-lorraine-php/events/317101108/?utm_medium=referral&amp;utm_campaign=share-btn_savedevents_share_modal&amp;utm_source=link&amp;utm_version=v2">https://www.meetup.com/afup-lorraine-php/events/317101108/?utm_medium=referral&amp;utm_campaign=share-btn_savedevents_share_modal&amp;utm_source=link&amp;utm_version=v2</a></p>-->
+        </section>
+    </div>
+</div>
+<script src="../shared/reveal/reveal.js"></script>
+<script>
+    Reveal.initialize({ slideNumber: 'c/t', hash: true });
+</script>
+</body>
+</html>
