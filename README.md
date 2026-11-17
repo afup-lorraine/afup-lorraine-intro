@@ -38,7 +38,7 @@ make serve    # puis ouvrir http://localhost:8000/AAAA-MM-opening/
 
 ```
 AAAA-MM-opening/     decks actifs : index.html + assets/images/ propres au mois
-archives/            decks antérieurs à août 2026, figés (reveal.js 3 embarqué)
+archives/            decks à l’ancien format, figés (reveal.js 3 embarqué)
 images/              images communes (logos, sponsors…), partagées entre les decks
 shared/reveal/       reveal.js 6 vendorisé (voir shared/reveal/VERSION)
 shared/theme/        thème AFUP (afup.css) et polices

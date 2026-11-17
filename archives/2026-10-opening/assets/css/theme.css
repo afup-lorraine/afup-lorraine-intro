@@ -13,7 +13,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 body {
     background: #fff;
     background-color: #fff;
-    background-image: url("../../../images/logo.png");
+    background-image: url("../../../../images/logo.png");
     background-repeat: no-repeat;
     background-size: 10em;
     background-position: bottom 3% left 3%; }
