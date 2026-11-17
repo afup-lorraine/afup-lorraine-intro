@@ -117,6 +117,13 @@
     padding: 20px;
 }
 
+.reveal .sponsor-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+}
+
 /* Liens et navigation */
 .reveal a {
     color: var(--afup-link-color);

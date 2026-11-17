@@ -20,11 +20,11 @@ make test    # shellcheck bin/*.sh + bin/test-new-deck.sh (bac à sable mktemp, 
 
 - `AAAA-MM-opening/` (racine) : decks actifs. Ne contiennent que `index.html` et `assets/images/` (images propres au mois). Ils pointent vers `../shared/` et `../images/`.
 - `shared/reveal/` : reveal.js 6.0.2 vendorisé (`reveal.js`, `reveal.css`, `reset.css`), provenance dans `shared/reveal/VERSION`. Pas de plugin (highlight volontairement exclu).
-- `shared/theme/afup.css` : thème unique (polices Roboto Condensed / Belgrano dans `shared/theme/fonts/`, logo de fond `images/logo.png`). Classes utilitaires : `title-slide`, `slide-small`, `centered-logo`.
+- `shared/theme/afup.css` : thème unique (polices Roboto Condensed / Belgrano dans `shared/theme/fonts/`, logo de fond `images/logo.png`). Classes utilitaires : `title-slide`, `slide-small`, `centered-logo`, `sponsor-logos` (logos côte à côte).
 - `images/` : images communes ; logos des hôtes dans `images/sponsors/` (proposés par `make new`).
 - `template/index.html` : modèle. Variables `{{MONTH_LABEL}}`, `{{DATE_LABEL}}`, `{{SPEAKER}}`, `{{HOST_NAME}}`, `{{HOST_LOGO}}`, `{{MEETUP_URL}}` ; une variable vide fait supprimer **toute sa ligne** par le générateur, donc garder chaque variable optionnelle seule sur sa ligne (avec les éléments qui n'ont pas de sens sans elle).
 - Bloc d'actualités délimité par `<!-- actu:start -->` / `<!-- actu:end -->` : `make new` peut le recopier depuis le dernier deck, avec les images `assets/images/…` qu'il référence. Conserver ces marqueurs dans chaque deck.
-- `archives/` : decks à l’ancien format (jusqu’à 2026-10 inclus), figés, avec leur propre reveal.js 3 embarqué ; chemins `../../images/`. Ne pas les modifier ni les migrer.
+- `archives/` : decks à l’ancien format (jusqu’à 2026-09 inclus), figés, avec leur propre reveal.js 3 embarqué ; chemins `../../images/`. Ne pas les modifier ni les migrer.
 
 ## Conventions
 
